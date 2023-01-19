@@ -23,6 +23,7 @@ import {
 } from '@chakra-ui/react';
 import { MoonIcon, SunIcon, Search2Icon, CloseIcon, HamburgerIcon } from '@chakra-ui/icons';
 
+//***************************************************************************************************************** */
 const NavLink = (/*{ children }: { children: ReactNode }*/) => (
   <Link
     px={2}
@@ -37,6 +38,7 @@ const NavLink = (/*{ children }: { children: ReactNode }*/) => (
   </Link>
 );
 
+//********************************************************************************************************************** */
 export default function NavBar() {
   const { colorMode, toggleColorMode } = useColorMode();
   const { isOpen, onOpen, onClose } = useDisclosure();
