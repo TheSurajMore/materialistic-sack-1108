@@ -3,9 +3,7 @@ import {Box, Flex, Avatar, Link, Button, Menu, MenuButton, MenuList, MenuItem, M
         Stack, useColorMode, Center, Image, IconButton, HStack,} from '@chakra-ui/react';
 import { MoonIcon, SunIcon, Search2Icon, CloseIcon, HamburgerIcon } from '@chakra-ui/icons';
 
-//***************************************************************************************************************** */
-
-const NavLink = (/*{ children }: { children: ReactNode }*/) => (
+const NavLink = ({ children }: { children: ReactNode }) => (
   <Link
     px={2}
     py={1}
@@ -15,11 +13,9 @@ const NavLink = (/*{ children }: { children: ReactNode }*/) => (
       bg: useColorModeValue('gray.200', 'gray.700'),
     }}
     href={'#'}>
-    {/* {children} */}
+    { {children} }
   </Link>
 );
-
-//********************************************************************************************************************** */
 
 export default function NavBar() {
   const { colorMode, toggleColorMode } = useColorMode();
@@ -28,7 +24,7 @@ export default function NavBar() {
     <>
       <Box bg={useColorModeValue('gray.100', 'gray.900')} px={4}>
         <Flex h={16} alignItems={'center'} justifyContent={'space-between'}>
-          <Box>Free Shipping on Orders $50+Details</Box>
+          <Box>Free Shipping on Orders $50+</Box>
           <Image src='Suraj More Logo.jpg' alt='Express Your Style' width={130}/>
           <Flex alignItems={'center'}>
             <Stack direction={'row'} spacing={7}>
