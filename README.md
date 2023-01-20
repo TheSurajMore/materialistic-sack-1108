@@ -1,5 +1,14 @@
-# materialistic-sack-1108
+# Hello,
 
+# Sections. 
+A] Landing Page.
+   1) NavBar.
+   2) Body.
+   3) Footer.
 
 # Functionalities.
-1) Dark/Light Mode => I am using navbar template from Chakra UI library which includes this Dark/Light Mode functionality. 
+A] Dark/Light Mode => I am using navbar template from Chakra UI library which includes this Dark/Light Mode functionality. 
+
+
+
+# materialistic-sack-1108.
