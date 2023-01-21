@@ -26,10 +26,7 @@
 
 <h3> Sections </h3>
 <p>
-A] Landing Page :-
-  (1) NavBar.
-  (2) Body.
-  (3) Footer.
+A] Landing Page :- (1) NavBar (2) Body (3) Footer
 </p>
 <hr/>
 
