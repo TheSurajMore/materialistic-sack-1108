@@ -20,13 +20,13 @@
 <hr/>
 
 <h3> Functionalities</h3>
-<p>A] This is a fully responsive website.</p>
+<p>A] This is a fully responsive website => A responsive web design will automatically adjust for different screen sizes and viewports. </p>
 <p>B] Dark/Light Mode => I am using navbar template from Chakra UI library which includes this Dark/Light Mode functionality.</p>
 <hr/>
 
 <h3> Sections </h3>
 <p>
-A] Landing Page :- (1) NavBar (2) Body (3) Footer
+A] Home Page :- (1) NavBar (2) Body (3) Footer
 </p>
 <hr/>
 
