@@ -20,8 +20,8 @@
 <hr/>
 
 <h3> Functionalities</h3>
-<p>A] Dark/Light Mode => I am using navbar template from Chakra UI library which includes this Dark/Light Mode functionality.</p>
-<p>B] This is a fully responsive website.</p>
+<p>A] This is a fully responsive website.</p>
+<p>B] Dark/Light Mode => I am using navbar template from Chakra UI library which includes this Dark/Light Mode functionality.</p>
 <hr/>
 
 <h3> Sections </h3>
