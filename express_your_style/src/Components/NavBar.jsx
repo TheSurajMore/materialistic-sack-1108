@@ -24,7 +24,7 @@ export default function NavBar() {
     <>
       <Box bg={useColorModeValue('gray.100', 'gray.900')} px={4}>
         <Flex h={16} alignItems={'center'} justifyContent={'space-between'}>
-          <Box>Free Shipping on Orders $50+</Box>
+          <Box>Free Shipping</Box>
           <Image src='Suraj More Logo.jpg' alt='Express Your Style' width={130}/>
           <Flex alignItems={'center'}>
             <Stack direction={'row'} spacing={7}>
