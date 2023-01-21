@@ -55,14 +55,14 @@ import { Box, Center, useColorModeValue, Heading, Text, Stack, Image,} from '@ch
                {title}
             </Heading>
             <Heading fontSize={'2xl'} fontFamily={'body'} fontWeight={500}>
-              {rating_rate}-{rating_count}
+             Rating: {rating_rate}({rating_count})
             </Heading>
             <Stack direction={'row'} align={'center'}>
               <Text fontWeight={800} fontSize={'xl'}>
                 ${price}
               </Text>
               <Text textDecoration={'line-through'} color={'gray.600'}>
-                $199
+                $1999
               </Text>
               <Text color={'gray.500'} fontSize={'sm'} textTransform={'uppercase'}>
               {description}
