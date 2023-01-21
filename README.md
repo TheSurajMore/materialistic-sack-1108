@@ -1,7 +1,7 @@
 # Hello 👋, I'm Suraj More
-# Welcome to my e-commerce website project.
+# Welcome to my e-commerce website project
 
-<h3> This project is created by using following Languages and Tools: </h3>
+<h3> This project is created by using following Languages and Tools :- </h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -15,20 +15,22 @@
 </p>
 <hr/>
 
-<h3> We can perform following activities on this web app. </h3>
-A] After landing on home page, We can see different products are available for purchase. 
+<h3> We can perform following operations on this web app </h3>
+<p>A] After landing on home page, We can see different products are available for purchase.</p>
 <hr/>
 
-<h3> Functionalities.</h3>
-A] Dark/Light Mode => I am using navbar template from Chakra UI library which includes this Dark/Light Mode functionality.
-B] This is a fully responsive website. 
+<h3> Functionalities</h3>
+<p>A] Dark/Light Mode => I am using navbar template from Chakra UI library which includes this Dark/Light Mode functionality.</p>
+<p>B] This is a fully responsive website.</p>
 <hr/>
 
-<h3> Sections. </h3>
-A] Landing Page.
-   1) NavBar.
-   2) Body.
-   3) Footer.
+<h3> Sections </h3>
+<p>
+A] Landing Page :-
+  (1) NavBar.
+  (2) Body.
+  (3) Footer.
+</p>
 <hr/>
 
 # materialistic-sack-1108.
