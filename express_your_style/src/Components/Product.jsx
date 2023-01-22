@@ -1,6 +1,11 @@
 import { Box, Center, useColorModeValue, Heading, Text, Stack, Image, Button,} from '@chakra-ui/react';
-import Buy from './BuyAlert';
-  
+
+const buy = () => {
+  alert(
+ "Order Placed Successfully 🛒 Thank you for Shopping !"
+ )
+}
+
 //   const IMAGE =
 //     'https://images.unsplash.com/photo-1518051870910-a46e30d9db16?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80';
 
@@ -65,7 +70,7 @@ import Buy from './BuyAlert';
              Rating: {rating_rate}({rating_count})
             </Heading>
             <Stack direction='row' spacing={4}>
-              <Button colorScheme='pink' variant='solid' onClick={Buy}> Buy Now </Button>
+              <Button colorScheme='pink' variant='solid' onClick={buy}> Buy Now </Button>
               {/* <Button colorScheme='blue' variant='outline'>Add to Cart</Button> */}
             </Stack>
             <Stack direction={'row'} align={'center'}>
