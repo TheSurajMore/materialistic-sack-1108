@@ -17,6 +17,7 @@
 
 <h3> We can perform following operations on this web app </h3>
 <p>A] After landing on home page, We can see different products are available for purchase.</p>
+<p>B] After clicking on Buy Now button we can place order.</p>
 <hr/>
 
 <h3> Functionalities</h3>
